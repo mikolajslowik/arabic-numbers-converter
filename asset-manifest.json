@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arabic-numbers-converter/static/css/main.25e24907.css",
+    "main.js": "/arabic-numbers-converter/static/js/main.63b478ac.js",
+    "static/js/787.4502ec44.chunk.js": "/arabic-numbers-converter/static/js/787.4502ec44.chunk.js",
+    "index.html": "/arabic-numbers-converter/index.html",
+    "main.25e24907.css.map": "/arabic-numbers-converter/static/css/main.25e24907.css.map",
+    "main.63b478ac.js.map": "/arabic-numbers-converter/static/js/main.63b478ac.js.map",
+    "787.4502ec44.chunk.js.map": "/arabic-numbers-converter/static/js/787.4502ec44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e24907.css",
+    "static/js/main.63b478ac.js"
+  ]
+}
